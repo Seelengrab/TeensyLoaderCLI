@@ -1,6 +1,6 @@
 # TeensyLoaderCLI
 
-A Julia wrapper package for [teensy_loader_cli](), used for interacting with the Teensy family of microcontrollers.
+A Julia wrapper package for [teensy_loader_cli](https://github.com/PaulStoffregen/teensy_loader_cli), used for interacting with the Teensy family of microcontrollers.
 
 ## Installation
 
